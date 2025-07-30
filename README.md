@@ -53,11 +53,11 @@ It uses AI to predict if prices will go up or down, then buys or sells automatic
 
 ## Architecture
 ```
-Data → ML Model → Trading → Risk Controls
- ↓        ↓         ↓          ↓
-Prices  Random   Buy/Sell   Stop Loss
-RSI     Forest   Orders     Take Profit
-MACD    (50 trees)          Trailing Stop
+Data    →      ML Model   → Trading    →  Risk Controls
+ ↓                ↓           ↓                ↓
+Prices         Random      Buy/Sell        Stop Loss
+RSI            Forest      Orders          Take Profit
+MACD          (50 trees)                  Trailing Stop
 Unemployment
 ```
 
