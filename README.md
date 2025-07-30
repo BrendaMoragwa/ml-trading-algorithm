@@ -46,11 +46,11 @@ This repository implements a Random Forest–based trading algorithm that:
    - Indicates whether each model remained active  
 
 ## Repository Structure
-
+```text
 ML-Trading-Algorithm/
-├── main.py                  # SimplifiedMLStrategy + UnemploymentData classes
-├── UNRATE.csv               # Unemployment rate data (if stored locally)
-├── README.md                # This documentation
+├── main.py        # SimplifiedMLStrategy + UnemploymentData classes
+├── UNRATE.csv     # Unemployment rate data
+└── README.md      # This documentation
 
 ## To get started
 1. Clone this repo
