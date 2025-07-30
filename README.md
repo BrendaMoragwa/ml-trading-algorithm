@@ -52,15 +52,14 @@ It uses AI to predict if prices will go up or down, then buys or sells automatic
 - Backtested on real data
 
 ## Architecture
-
-
+```
 Data → ML Model → Trading → Risk Controls
  ↓        ↓         ↓          ↓
 Prices  Random   Buy/Sell   Stop Loss
 RSI     Forest   Orders     Take Profit
 MACD    (50 trees)          Trailing Stop
 Unemployment
-
+```
 
 ## Code Structure
 
