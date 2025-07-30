@@ -41,6 +41,8 @@ It uses AI to predict if prices will go up or down, then buys or sells automatic
 **Return:** 0.74%
 **Profit:** $744
 
+<img width="1868" height="1028" alt="image" src="https://github.com/user-attachments/assets/d7e46c9a-1967-43cd-9271-01ed92f3806f" />
+
 ## Key Features
 
 - Automated trading
