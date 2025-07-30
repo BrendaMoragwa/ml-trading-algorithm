@@ -1,6 +1,6 @@
 # ML-Driven Equity Trading Strategy
 
-A QuantConnect / Lean strategy that uses machine learning to trade SPY, TLT, and QQQ based on RSI, MACD, and the U.S. Unemployment Rate.
+A QuantConnect trading strategy that uses machine learning to trade SPY, TLT, and QQQ based on RSI, MACD, and the U.S. Unemployment Rate.
 
 ## Overview
 
@@ -11,7 +11,7 @@ This repository implements a Random Forest–based trading algorithm that:
 - **Combines** technical indicators (RSI, MACD) with a macroeconomic feature (unemployment rate)  
 - **Backtests** performance over 2022–2024  
 
-## 🛠 Technologies
+## Technologies
 
 - **Python**  
 - **QuantConnect Lean** framework  
