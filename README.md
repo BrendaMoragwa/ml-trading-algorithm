@@ -51,8 +51,8 @@ ML-Trading-Algorithm/
 ├── main.py        # SimplifiedMLStrategy + UnemploymentData classes
 ├── UNRATE.csv     # Unemployment rate data
 └── README.md      # This documentation
-
-## To get started
+```
+## How It Works
 1. Clone this repo
 - git clone https://github.com/BrendaMoragwa/ml-trading-algorithm.git
 - cd ml-trading-algorithm
