@@ -56,10 +56,7 @@ ML-Trading-Algorithm/
 1. Clone this repo
 - git clone https://github.com/BrendaMoragwa/ml-trading-algorithm.git
 - cd ml-trading-algorithm
-  
-2. Backtest in QuantConnect IDE or with Lean CLI
-- lean backtest main.py --start 20220101 --end 20241231 --cash 100000
-
+2. Backtest in QuantConnect IDE
 3. Review logs and performance metrics
 
 
