@@ -68,6 +68,12 @@ Unemployment
 - **Risk Management** - Safety controls
 - **ML Pipeline** - AI training and predictions
 
+## Installation
+
+Clone the repository:
+- git clone https://github.com/BrendaMoragwa/ml-trading-algorithm.git
+- cd ml-trading-algorithm
+
 ## Setup
 
 1. Copy code to QuantConnect
